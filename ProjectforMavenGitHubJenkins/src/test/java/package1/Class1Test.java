@@ -10,6 +10,7 @@ public class Class1Test {
 	{
 		Reporter.log("*****hey*****",true);
 		Reporter.log("*****hey*****",true);
+		Reporter.log("*****hey*****",true);
 	}
 
 }
